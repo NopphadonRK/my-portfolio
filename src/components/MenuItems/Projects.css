@@ -1,0 +1,25 @@
+.Project{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 180px;
+}
+
+.Project-title {
+    display: flex;
+    align-items: center;
+    margin: 40px 80px 33px 80px;
+}
+
+.Project-title-line {
+    width: 100%;
+    margin-left: 60px;
+    border-radius: 3px;
+    border: 2px solid rgb(21, 165, 255);
+}
+
+.Project-item {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
